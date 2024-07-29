@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={121Takane}&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=121Takane&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **121Takane/121Takane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
